@@ -8,7 +8,7 @@ In the **project** folder you can find all the files to 3D print your own Metapr
 
 Note that this is a CC-BY-NC-ND project.
 
-In you want to know more: https://www.sciencedirect.com/science/article/pii/S0165783622000364?casa_token=1FeELFzAOPgAAAAA:9op0JuNqQfg0Z-I036_cgCxtSTv5bk7Hj7mKk1It975jsfYxQLrAxmeI35rjO3LR_0dpC1pr
+If you want to know more: https://www.sciencedirect.com/science/article/pii/S0165783622000364?casa_token=1FeELFzAOPgAAAAA:9op0JuNqQfg0Z-I036_cgCxtSTv5bk7Hj7mKk1It975jsfYxQLrAxmeI35rjO3LR_0dpC1pr
 
 For any question please contact <span style="color: blue;">giulia.maiello@uniroma2.it</span>, <span style="color: blue;">f.bezombes@ljmu.ac.uk</span>, <span style="color: blue;">e.f.neave@ljmu.ac.uk</span> 
 
