@@ -1,5 +1,5 @@
 # Metaprobe-2.0
-The Metaprobe: a nimble, low-cost environmental DNA sampler for upsaling acquatic monitoring 
+The Metaprobe: a nimble, low-cost environmental DNA sampler for upscaling acquatic monitoring 
 
 Bezombes F., Maiello G., Mariani S., Neave E., Russo T., Shum P.
 
