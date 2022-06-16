@@ -1,3 +1,5 @@
 This folder contains all the files you need to 3D print a Metaprobe.
 The 'BASIC for print bottom.SLDPRT' and 'BASIC for print top.SLDPRT' are the two projct files to print the object,
 the ''BASIC for print bottom.STL' and 'BASIC for print top.STL' are 3D images to show how the final object looks like.
+
+3D printing parameters recommended to print: layer height = 0.1, infill = 100%, material = PLA, add support material.
