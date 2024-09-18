@@ -12,6 +12,6 @@ Note that this is a CC-BY-NC-ND project.
 
 If you want to know more: https://www.sciencedirect.com/science/article/pii/S0165783622000364?casa_token=1FeELFzAOPgAAAAA:9op0JuNqQfg0Z-I036_cgCxtSTv5bk7Hj7mKk1It975jsfYxQLrAxmeI35rjO3LR_0dpC1pr
 
-For any question please contact <span style="color: blue;">giulia.maiello@uniroma2.it</span>, <span style="color: blue;">f.bezombes@ljmu.ac.uk</span>, <span style="color: blue;">e.f.neave@ljmu.ac.uk</span> 
+For any question please contact <span style="color: blue;">g.maiello@ljmu.ac.uk</span>, <span style="color: blue;">f.bezombes@ljmu.ac.uk</span>, <span style="color: blue;">e.f.neave@ljmu.ac.uk</span> 
 
 How to cite: Maiello, G., Talarico, L., Carpentieri, P., De Angelis, F., Franceschini, S., Harper, L. R., Neave, E.F., Rickards, O., Sbrana, A., Shum, P., Veltre, V., Mariani, S., Russo, T. (2022). Little samplers, big fleet: eDNA metabarcoding from commercial trawlers enhances ocean monitoring. Fisheries Research, 249, 106259.
