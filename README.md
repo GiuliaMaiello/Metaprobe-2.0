@@ -1,7 +1,8 @@
-# Metaprobe-2.0
+# Metaprobe-2.1
 The Metaprobe: a nimble, low-cost environmental DNA sampler for upscaling acquatic monitoring 
 
 Bezombes F., Maiello G., Mariani S., Neave E., Russo T., Shum P.
+
 
 This repository contains all the instruction you need to prepare and use the Metaprobe, a hollow perforated spherical probe that when filled with rolls of gauze is used as a low-cost and low-effort eDNA sampler in acquatic environments. 
 In the **project** folder you can find all the files to 3D print your own Metaprobes. In the **tutorial** folder there are protocols explaining how to prepare and use a Metaprobe with the rolls of gauze.
